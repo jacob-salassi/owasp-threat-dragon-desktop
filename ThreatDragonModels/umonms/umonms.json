@@ -4,14 +4,12 @@
     "owner": "uothermoms"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [
+    "contributors": [
       {
-        "title": "test",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "name": "me"
       }
     ],
+    "diagrams": [],
     "reviewer": "me"
   }
 }
